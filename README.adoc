@@ -7,9 +7,8 @@ This application was generated using http://start.vertx.io
 == Running
 
 `MainVerticle.java` has two `vertx.deployVerticle` invocations commented out. Uncomment the verticle
- which you intend on running and then start the project using the commands below.
-
- Let me know if you have any questions or problems!
+ which you intend on running and then start the project using the commands below. Let me know if
+you have any questions or problems!
 
 == Building
 
