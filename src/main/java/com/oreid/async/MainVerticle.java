@@ -14,7 +14,7 @@ public class MainVerticle extends AbstractVerticle {
             startPromise.complete();
 
 //            vertx.deployVerticle("com.oreid.async.PromiseVerticle");
-            vertx.deployVerticle("com.oreid.async.ComposablePromiseVerticle");
+//            vertx.deployVerticle("com.oreid.async.ComposablePromiseVerticle");
           } else {
             startPromise.fail(http.cause());
           }
